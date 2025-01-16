@@ -20,6 +20,9 @@ export default function Home() {
         <Link href="./pages/aboutUs">
           <button className='border-[0.5px] border-black p-2 hover:bg-neutral-200 rounded-lg'>About Us</button>
         </Link>
+        <Link href="./pages/transaction">
+          <button className='border-[0.5px] border-black p-2 hover:bg-neutral-200 rounded-lg'>About Us</button>
+        </Link>
       </div>
     </div>
   );
